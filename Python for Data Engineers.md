@@ -104,7 +104,7 @@ After activation, you’ll see (venv) at the beginning of the command line, indi
   -  where python  # On Windows
 -  It should show the path pointing to your venv/ folder.
   
-## The Use of Understanding the PATH  environment variable in Running Python
+## 5.   The Use of Understanding the PATH  environment variable in Running Python
 
 ### The PATH Environment Variable
 The **PATH** is an environment variable that tells the operating system where to look for executable files. When you install Python, adding Python to the PATH ensures that you can run `python` or `python3` from the command line.
